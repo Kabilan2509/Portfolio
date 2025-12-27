@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+#  Personal Portfolio Website
 
 This repository contains the source code for my **personal portfolio website**, designed to showcase my skills, projects, and contact information in a clean, modern, and responsive layout.
 
@@ -6,7 +6,7 @@ The portfolio represents my profile as a **Computer Science Engineering student*
 
 ---
 
-## ✨ Features
+##  Features
 
 - Responsive and modern UI design  
 - Smooth scrolling navigation  
@@ -20,7 +20,7 @@ The portfolio represents my profile as a **Computer Science Engineering student*
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - **HTML5** – Structure of the website  
 - **CSS3** – Styling, animations, and responsiveness  
